@@ -6,7 +6,7 @@ provides courier quotes based on weight categories.
 ## Getting Started
 
 1. Download zip of the `gh-pages` branch on the desktop
-2.Unzip the folder 
+2. Unzip the folder 
 3. Open `index.html` on a browser or naviagete to `https://rachellemaina.github.io/SendIT-UI/index.html`
 
 ### Prerequisites
